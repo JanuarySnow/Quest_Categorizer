@@ -1,0 +1,1 @@
+A Synthesis patcher to rename quests according to their type
