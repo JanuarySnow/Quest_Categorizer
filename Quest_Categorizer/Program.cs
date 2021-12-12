@@ -47,7 +47,7 @@ namespace Quest_Categorizer
                     }
                     if ((int)quest.Type == 5)
                     {
-                        typestring = "Companion Quests";
+                        typestring = "Companions";
                     }
                     if ((int)quest.Type == 6)
                     {
@@ -67,7 +67,7 @@ namespace Quest_Categorizer
                     }
                     if ((int)quest.Type == 10)
                     {
-                        typestring = "Vampire";
+                        typestring = "Dawnguard";
                     }
                     if ((int)quest.Type == 11)
                     {
